@@ -1,0 +1,17 @@
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\bin\Debug\net8.0\WebCrawler(console).exe
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\bin\Debug\net8.0\WebCrawler(console).deps.json
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\bin\Debug\net8.0\WebCrawler(console).runtimeconfig.json
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\bin\Debug\net8.0\WebCrawler(console).dll
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\bin\Debug\net8.0\WebCrawler(console).pdb
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).GeneratedMSBuildEditorConfig.editorconfig
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).AssemblyInfoInputs.cache
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).AssemblyInfo.cs
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).csproj.CoreCompileInputs.cache
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).dll
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\refint\WebCrawler(console).dll
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).pdb
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).genruntimeconfig.cache
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\ref\WebCrawler(console).dll
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawler(console).csproj.AssemblyReference.cache
+D:\HUFLIT\Web Crawler\WebCrawler(console)\WebCrawler(console)\obj\Debug\net8.0\WebCrawl.51F242A8.Up2Date
